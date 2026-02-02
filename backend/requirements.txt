@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+pydantic
+python-multipart
+# aioredis  # Future scalability
